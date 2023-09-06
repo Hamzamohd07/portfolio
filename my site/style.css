@@ -1,0 +1,153 @@
+body{
+    padding-top: 100px;
+    background-color: #FFEADD;
+}
+#top-cloud{
+    position: absolute;
+    height: 20%;
+    bottom: 250px;
+    left: 220px;
+   
+}
+
+#bottom-cloud{
+    position: absolute;
+    height: 20%;
+    top: 100px;
+    right: 220px;
+}
+
+
+#mountains{
+    position: absolute;
+    margin-left: 35%;
+}
+
+h2{
+    margin: auto;
+    text-align: center;
+}
+.web{
+    color:aqua;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline ;
+    font-size: 35px;
+}
+h1{
+    font-size: xx-large;
+    margin-left:45%;
+    font-family:cursive;
+}
+#profilepic{
+    border:solid dark grey 3px;
+    border-radius: 2200px;
+    width: 350px;
+    height:350px;
+    
+}
+.middle-container{
+    margin-top:500px ;
+    text-align:center;
+    background-color: #DBC4F0;
+    padding-top: 100px;
+    font-size: xx-large;
+    font-style:oblique ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hello{
+    font-size:70px ;
+    padding: 60px;
+    font-family:serif;
+    color:#400E32;
+}
+.p1{
+    color:#1C3879;
+    text-align: center;
+}
+.border1{
+    width:200px;
+    margin-left:43% ;
+    border-bottom: dotted 20px #374259;
+    margin-top: 100px;
+}
+h3{
+    font-size:70px ;
+    padding: 50px;
+    text-align: center;
+    color:#400E32;
+}
+.my-skills{
+    color:#1C3879;
+    text-align: 40%;
+}
+.border2{
+    width:200px;
+    margin-left:43% ;
+    border-bottom: dotted 20px #164B60;
+    margin-top: 100px;
+}
+h4{
+    font-size:70px ;
+    padding: 50px;
+    text-align: center;
+    color:#400E32;
+}
+.p2{
+    color:#1C3879;
+    text-align: center;
+    padding-bottom: 150px;
+}
+
+.contact{
+    text-align: center;
+    font-size: large;
+}
+h5{
+    font-size:50px ;
+    padding: 50px;
+    text-align: center;
+    color:#400E32;
+   
+}
+.bottom-container{
+    background-color: #98D8AA;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: x-large;
+    opacity: 1;
+}
+.last{
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    opacity: 0.6;
+    padding-top: 70px;
+}
+a:hover{
+    background-color: darkblue;
+    color:wheat;
+}
+#gif {
+    width:50px;
+    height: 50px;
+}
+#skill{
+    width:50px;
+    height: 50px;
+}
+#webgif{
+    width:38px;
+    height: 38px;
+}
+#contactgif{
+width:40px;
+height: 40px;
+}
+#ra{
+    width:60px;
+    height: 20px;
+    opacity: 1;
+}
